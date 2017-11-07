@@ -1,0 +1,14 @@
+
+body{
+	background: #F0F8FF;
+}
+
+.fa-circle-o:before{
+  padding-left: 10px;
+}
+
+
+tr td:last-child a , form{
+	display: inline-block;
+}
+
